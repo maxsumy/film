@@ -6,4 +6,8 @@ git remote add origin https://github.com/maxsumy/film.git
 git push -u origin main
 
 git add .
+git commit -m "first commit"
+git push -u origin main
+
+
 git config --global user.email "grenki2@gmail.com"  (для первого раза)
